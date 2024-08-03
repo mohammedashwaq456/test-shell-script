@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+#Author : Ashwaq
+#date : 28.07.2024
+#
+
+echo "print desk space"
+df -h
+echo "print cpu"
+
+free -g
+echo "print memory"
+nproc
+~
