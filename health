@@ -6,9 +6,9 @@
 
 echo "print desk space"
 df -h
-echo "print cpu"
 
+echo "print memorey used"
 free -g
-echo "print memory"
+
+echo "print no of cpu"
 nproc
-~
